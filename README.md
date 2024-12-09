@@ -210,3 +210,4 @@ This project showcases an intelligent dashboard built to analyze accommodation d
   *Action*: Implement higher weekend pricing for properties near popular attractions.
 
 ---
+https://github.com/user-attachments/assets/344574f0-6606-44f3-9271-db315b676f32
